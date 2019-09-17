@@ -8,3 +8,5 @@ Paris is the capital of France
 >>>>>>> parent of 459c00a... New capitals are added
 =======
 >>>>>>> parent of 459c00a... New capitals are added
+index testing
+index testing ...
