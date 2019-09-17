@@ -1,7 +1,10 @@
 My first line in project
 <<<<<<< HEAD
+<<<<<<< HEAD
 London is the capital of GB
 Moscow is the capital of Russia
 Paris is the capital of France
+=======
+>>>>>>> parent of 459c00a... New capitals are added
 =======
 >>>>>>> parent of 459c00a... New capitals are added
